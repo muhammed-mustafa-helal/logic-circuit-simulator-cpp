@@ -1,0 +1,2 @@
+﻿MainSimulator.obj : error LNK2019: unresolved external symbol "public: __thiscall Simulator::Simulator(void)" (??0Simulator@@QAE@XZ) referenced in function _main
+C:\Users\Muham\Desktop\Projects\LogicCircuitSimulator\Debug\LogicCircuitSimulator.exe : fatal error LNK1120: 1 unresolved externals
